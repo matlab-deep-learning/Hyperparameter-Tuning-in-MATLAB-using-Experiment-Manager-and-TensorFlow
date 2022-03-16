@@ -14,7 +14,7 @@ There are different options for accessing Deep Learning Models within MATLAB, in
 2. [Converting](https://www.mathworks.com/help/deeplearning/deep-learning-import-and-export.html) models from other frameworks into MATLAB
 3. Co-executing models from other frameworks with MATLAB
 
-This example provides an an overview of the third approach. For more details on what co-execution is, see [MATLAB Calling TensorFlow for Image Classification](https://insidelabs-git.mathworks.com/dwilling/matlab-calling-tensorflow-image-classification).
+This example provides an an overview of the third approach. For further details on co-execution, see this example: [MATLAB Calling TensorFlow for Image Classification](https://insidelabs-git.mathworks.com/dwilling/matlab-calling-tensorflow-image-classification).
 
 ## Requirements 
 
