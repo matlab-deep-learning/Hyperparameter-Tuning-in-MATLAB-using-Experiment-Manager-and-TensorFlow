@@ -1,7 +1,7 @@
 # Hyperparameter Tuning in MATLAB using Experiment Manager & TensorFlow
 ![](images/ExperimentManagerCoexecution.png)
 
-## This example shows how to:
+## This example shows how to develop a speaker identification algorithm with MATLAB and TensorFlow:
 * Preprocess audio data in MATLAB&reg; using the [Audio Toolbox](https://www.mathworks.com/products/audio.html)
 * Train a TensorFlow&trade; model using co-execution with Python&reg;
 * Tune hyperparameters of a model from MATLAB using the [Experiment Manager App](https://www.mathworks.com/help/deeplearning/ref/experimentmanager-app.html)
